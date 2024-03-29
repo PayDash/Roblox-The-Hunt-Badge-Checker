@@ -1,6 +1,4 @@
 #made at 3 am on a saturday night
-
-
 import datetime
 import json
 import requests
