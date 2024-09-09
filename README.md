@@ -1,6 +1,6 @@
 <div align="center">
   <kbd>
-    <img src="https://media.discordapp.net/attachments/982987287228973078/1223624866176176189/image.png?ex=661a8875&is=66081375&hm=75c293c5ad69feba32cb9cffdd069f6359885ab374af1a7369c513cda941ef61&" alt="Example" style="width: 100%; height: 100%;">
+    <img src="https://i.pinimg.com/564x/15/7a/c2/157ac207d6658438d9f0b4fa5d264760.jpg" alt="Example" style="width: 100%; height: 100%;">
   </a>
   </kbd>
 
